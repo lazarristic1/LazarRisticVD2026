@@ -28,7 +28,7 @@ body{
  text-decoration: none;
  display: inline-block;
  width: 15%;
- transition: all 0.3 ease;
+ transition: all 0.3s ease;
 }
 .meni a:hover{
  color: white;
