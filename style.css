@@ -225,4 +225,14 @@ footer {
  font-size: 0.5rem;
  margin:10vh;
  }
+    .share-box {
+margin: 16px 0;
+}
+
+.share-box a {
+display: inline-block;
+padding: 8px 14px;
+text-decoration: none;
+}
+
 }
